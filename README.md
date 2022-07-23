@@ -1,2 +1,2 @@
 # Drum-Kit
-https://github.com/shwetazade27/Drum-Kit
+https://shwetazade27.github.io/Drum-Kit/
